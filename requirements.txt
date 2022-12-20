@@ -24,3 +24,4 @@ sklearn==0.0.post1
 sqlparse==0.4.3
 tzdata==2022.7
 Werkzeug==2.2.2
+gunicorn
